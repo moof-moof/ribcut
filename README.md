@@ -15,10 +15,8 @@ The kerf-compensated Gcode created with **RibCut**, on the other hand, is primar
 1. Unzip it anywhere you want.
 
 1. On first run you will need to define the NC and DAT directories from the Edit menu.
-
- i. The DAT Directory variable must point at the 'koord' directory where all the .dat files are.
-
- ii. The NC Directory can be anywhere convenient.  All Gcode will be saved there.
+  The DAT Directory variable must point at the 'koord' directory where all the .dat files are.
+  The NC Directory can be anywhere convenient.  All Gcode will be saved there.
 
 1. Close and re-open the program and you should see the airfoil lists populate.
 

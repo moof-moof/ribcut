@@ -22,7 +22,7 @@ The kerf-compensated gcode created with RibCut is instead primarily used for cut
 
 ## Usage
 
-Just fill in the various edit fields and click <pre><code><b>1 Test</b></code></pre>  **`1 Generate Gcode`**, then **`2 Write to File`**. How simple can it get?
+Just fill in the various edit fields and click <pre><b>1 Test</b></pre>  **`1 Generate Gcode`**, then **`2 Write to File`**. How simple can it get?
 <br/>
 <br/>
 

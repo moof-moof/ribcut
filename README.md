@@ -4,9 +4,9 @@
 RibCut v2
 ===
 
-This program generates 2D Gcode from airfoil data stored in the common [Selig](http://openvsp.org/wiki/doku.php?id=airfoilexport#:~:text=Bezier%20*.bz%20format.-,Selig%20Format,-The%20Selig%20airfoil) format. **RibCut** is a much reduced and simplified version of the more complex **Wing G-Code** [(https://github.com/swarfer/winggcode)](https://github.com/swarfer/winggcode), which is an application aimed at 3D hotwire cutting of model airplane foam wings.
+This program generates 2D [gcode](http://en.wikipedia.org/wiki/Gcode) from airfoil data stored in the common [Selig](http://openvsp.org/wiki/doku.php?id=airfoilexport#:~:text=Bezier%20*.bz%20format.-,Selig%20Format,-The%20Selig%20airfoil) format. **RibCut** is a much reduced and simplified version of the more complex **Wing G-Code** [(https://github.com/swarfer/winggcode)](https://github.com/swarfer/winggcode), which is an application aimed at 3D hotwire cutting of model airplane foam wings.
 
-The kerf-compensated Gcode created with RibCut is instead primarily used for cutting balsa wing ribs with a prototype grbl-based CNC scroll-saw machine called '***GeeSaw***'! A database of airfoils in the Selig DAT format is included, or you can add your own.
+The kerf-compensated gcode created with RibCut is instead primarily used for cutting balsa wing ribs with a prototype grbl-based CNC scroll-saw machine called '**GeeSaw**'! A database of airfoils in the Selig DAT format is included, or you can add your own.
 
 ## Install
 
